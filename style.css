@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    }
+
+.b1{
+    height: 60px;
+    width: 60px;
+    background-color:rgb(237, 77, 103);
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 2px;
+}
+.Top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Top2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Top21{
+    display: flex;
+    flex-direction: row;
+}
+
+.Top22{
+    display: flex;
+    flex-direction: row;
+}
+.Top3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Top31{
+    display: flex;
+    flex-direction: row;
+}
+.b2{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(227, 227, 32);
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 2px;
+   
+}
+.Top32{
+    display: flex;
+    flex-direction: row;
+}
+.b3{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(32, 191, 227);
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 2px;
+}
+.Top4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Top41{
+    display: flex;
+    flex-direction: row;
+}
+
+.Top42{
+    display: flex;
+    flex-direction: row;
+}
+.Top43{
+    display: flex;
+    flex-direction: row;
+}
+.end{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
